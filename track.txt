@@ -1,7 +1,7 @@
 {
-    "id": "custom_ost_mnostheme",
+    "id": "custom_ost_mgrrey",
     "volume": 0.8,
-    "name": "Order",
+    "name": "Rules of Nature",
     "fade_duration": 0.1,
     "events": {
         "setup": {
